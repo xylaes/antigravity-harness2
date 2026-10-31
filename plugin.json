@@ -1,0 +1,19 @@
+{
+  "name": "harness2",
+  "displayName": "Google Harness²",
+  "version": "1.0.0",
+  "description": "Recursive Agent Harnessing for an Open World (Google Research Harness2). Optimizes frozen-model agent harnesses through the Propose-Probe-Compose loop and persistent experience memory.",
+  "author": {
+    "name": "Google Research & Northwestern University"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/google-research/harness2"
+  },
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Audit recent execution transcripts for harness friction and errors",
+    "Run a Propose-Probe-Compose recursive optimization loop on active skills",
+    "View transferable lessons in the Harness2 experience library"
+  ]
+}
