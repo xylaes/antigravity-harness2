@@ -4,12 +4,13 @@
   "version": "1.0.0",
   "description": "Recursive Agent Harnessing for an Open World (Google Research Harness2). Optimizes frozen-model agent harnesses through the Propose-Probe-Compose loop and persistent experience memory.",
   "author": {
-    "name": "Google Research & Northwestern University"
+    "name": "Xylaes (based on Google Research & Northwestern University)"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/google-research/harness2"
+    "url": "https://github.com/xylaes/antigravity-harness2"
   },
+  "homepage": "https://github.com/google-research/harness2",
   "logo": "assets/logo.svg",
   "suggestedPrompts": [
     "Audit recent execution transcripts for harness friction and errors",
